@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/davidmarques164/ninjateste/main/NinjaBundleProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "NinjaBundleProvider",
+    "internalName": "NinjaBundleProvider",
+    "authors": ["ResearchCaseStudy"],
+    "description": "Bundle com 4 provedores PT-BR (AmenicTV, TLN, MegaFlix, OverFlix)",
+    "repositoryUrl": "https://github.com/davidmarques164/ninjateste",
+    "language": "pt-br",
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": null,
+    "fileSize": 65493
+  }
+]

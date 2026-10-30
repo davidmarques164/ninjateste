@@ -1,0 +1,6 @@
+{
+  "name": "NinjaBundle",
+  "description": "Bundle com 4 provedores PT-BR (AmenicTV, TLN, MegaFlix, OverFlix)",
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/davidmarques164/ninjateste/main/plugins.json"]
+}
